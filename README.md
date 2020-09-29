@@ -5,7 +5,7 @@
 * :mortar_board: Estudante do Instituto Federal do Paraná - Campus Londrina
   * Realizando o curso Técnico em Informática Integrado ao Ensino Médio.
 * :robot: Faço parte de um projeto de extensão sobre robótica, também pelo IFPR.
-  * https://github.com/RedFenixRobotics
+  * <a href = "https://github.com/RedFenixRobotics">@RedFenixRobotics</a>
 
 
 ### Linguagens que estou aprimorando
