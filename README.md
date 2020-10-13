@@ -17,6 +17,7 @@
 <a href = "https://www.linkedin.com/in/luannagarla/"><img src="icones/linkedin.svg" width="30"></a> 
 <a href = "https://t.me/luannagarla"><img src="icones/telegram.svg" width="30"></a>
 <a href = "https://www.facebook.com/luanna.garla"><img src="icones/facebook.svg" width="30"></a>
+ <a href = "https://www.instagram.com/luannagarla/"><img src="icones/instagram.svg" width="30"></a>
 </p>
 
 ![rodape](icones/rodape.png)
