@@ -8,7 +8,7 @@
   * <a href = "https://github.com/RedFenixRobotics">@RedFenixRobotics</a>
 
 
-### Tecnologias que estou aprimorando
+### Linguagens e tecnologias que estou aprimorando
 <img alt="linguagem C" src="icones/c.svg" width="4%" > <img alt="linguagem C++" src="icones/cplusplus.svg" width="4%">  <img alt="linguagem JAVA" src="icones/java.svg" width="4%"> <img alt="linguagem JS" src="icones/javascript.svg" width="4%"> <img alt="linguagem Python" src="icones/python.svg" width="4%"> <img alt="Arduino" src="icones/arduino.svg" width="4%">
   
 <h4 <p align="center">Entre em contato comigo via</p>
