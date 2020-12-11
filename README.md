@@ -1,23 +1,29 @@
-![header](icones/cabecalho.png)
-### Sobre mim 
-* :mortar_board: Estudante do Instituto Federal do Paraná - Campus Londrina
-  * Realizando o curso Técnico em Informática Integrado ao Ensino Médio
-* :dart: Tenho afinidade com programação 
-  * Estudando desenvolvimento web 
-* :robot: Faço parte de um projeto de extensão sobre robótica, também pelo IFPR
+![header](images/top.png)
+### About me 
+* :mortar_board: Student at Federal institute of Paraná - Londrina (IFPR) 
+  * Cursing the technician informatics curse integrated with High School 
+* :dart: I’m familiar with programming 
+  * Studying web development 
+* :robot: I’m part of an extension project of robotics, also in IFPR 
   * <a href = "https://github.com/RedFenixRobotics">@RedFenixRobotics</a>
 
 
-### Linguagens e tecnologias que estou aprimorando
-<img alt="linguagem C" src="icones/c.svg" width="4%" > <img alt="linguagem C++" src="icones/cplusplus.svg" width="4%">  <img alt="linguagem JAVA" src="icones/java.svg" width="4%"> <img alt="linguagem JS" src="icones/javascript.svg" width="4%"> <img alt="linguagem Python" src="icones/python.svg" width="4%"> <img alt="Arduino" src="icones/arduino.svg" width="4%">
+### Technologies that I'm improving myself/learning 
+<img alt="linguagem C" src="images/c.png" width="4%" > <img alt="linguagem C++" src="images/cplusplus.png" width="4%">  <img alt="linguagem JAVA" src="images/java.png" width="4%"> <img alt="linguagem JS" src="images/javascript.png" width="4%"> <img alt="linguagem Python" src="images/python.png" width="4%"> <img alt="Arduino" src="images/arduino.png" width="4%">
   
-<h4 <p align="center">Entre em contato comigo via</p>
+<h4 <p align="center">Contact me via</p>
 <p align="center"> 
-<a href = "mailto:luagarla@gmail.com"><img src="icones/gmail.svg" width="4%"></a>
-<a href = "https://www.linkedin.com/in/luannagarla/"><img src="icones/linkedin.svg" width="4%"></a> 
-<a href = "https://t.me/luannagarla"><img src="icones/telegram.svg" width="4%"></a>
-<a href = "https://www.facebook.com/luanna.garla"><img src="icones/facebook.svg" width="4%"></a>
- <a href = "https://www.instagram.com/luannagarla/"><img src="icones/instagram.svg" width="4%"></a>
+<a href = "mailto:luagarla@gmail.com"><img src="images/gmail.png" width="4%"></a>
+<a href = "https://www.linkedin.com/in/luannagarla/"><img src="images/linkedin.png" width="4%"></a> 
+<a href = "https://t.me/luannagarla"><img src="images/telegram.png" width="4%"></a>
+<a href = "https://www.facebook.com/luanna.garla"><img src="images/facebook.png" width="4%"></a>
+ <a href = "https://www.instagram.com/luannagarla/"><img src="images/instagram.png" width="4%"></a>
 </p>
 
-![rodape](icones/rodape.png)
+![rodape](images/final.png)
+
+
+
+
+
+
