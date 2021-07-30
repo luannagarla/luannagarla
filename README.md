@@ -9,7 +9,7 @@
 
 
 ### Technologies that I'm improving myself/learning 
-<img alt="linguagem C" src="images/c.png" width="4%" > <img alt="linguagem C++" src="images/cplusplus.png" width="4%">  <img alt="linguagem C#" src="images/csharp.png" width="4%"> <img alt="linguagem JS" src="images/javascript.png" width="4%"> <img alt="linguagem Python" src="images/python.png" width="4%"> <img alt="Arduino" src="images/arduino.png" width="4%"> <img alt="CSS" src="images/CSS.png" width="4%"> <img alt="HTML5" src="images/HTML.png" width="4%">
+<img alt="linguagem C++" src="images/cplusplus.png" width="4%">  <img alt="linguagem C#" src="images/csharp.png" width="4%"> <img alt="linguagem JS" src="images/javascript.png" width="4%"> <img alt="linguagem Python" src="images/python.png" width="4%"> <img alt="Arduino" src="images/arduino.png" width="4%"> <img alt="CSS" src="images/CSS.png" width="4%"> <img alt="HTML5" src="images/HTML.png" width="4%">
   
 <h4 <p align="center">Contact me via</p>
 <p align="center"> 
