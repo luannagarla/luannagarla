@@ -16,11 +16,11 @@
 ![rodape](images/final.png)
 
 <div align="">
-  <h2> ⭐ GitHub Stats ⭐ </h2>
+    <h2> ⭐ GitHub Stats ⭐ </h2>
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannagarla&layout=compact&theme=transparent" alt="Top Linguagens"></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannagarla&layout=compact&theme=transparent" alt="Top Linguagens"></br>
 
-    <img src="https://github-readme-stats.vercel.app/api?username=luannagarla&show_icons=true&count_private=true&hide=prs&theme=transparent" alt="GitHub Stats"></br>
+<img src="https://github-readme-stats.vercel.app/api?username=luannagarla&show_icons=true&count_private=true&hide=prs&theme=transparent" alt="GitHub Stats"></br>
     
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luannagarla&theme=transparent" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luannagarla&theme=transparent" alt="GitHub Streak">
 </div>
