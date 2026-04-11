@@ -1,0 +1,39 @@
+name: GitHub Metrics
+
+on:
+  # Permite execução manual do workflow
+  workflow_dispatch:
+
+  # Executa automaticamente todo dia às 6h da manhã (UTC)
+  schedule:
+    - cron: "0 6 * * *"
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token de autenticação (obrigatório)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Seu usuário do GitHub
+          user: seu-usuario-aqui
+
+          # Nome do arquivo que será gerado
+          filename: assets/metrics.svg
+
+          # Seções base a serem incluídas
+          base: header, activity, community, repositories, metadata
+
+          # Plugin de linguagens de programação
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+          # Plugin de linhas de código
+          plugin_lines: yes
