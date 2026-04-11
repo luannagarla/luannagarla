@@ -5,7 +5,9 @@
 Turning ideas into solutions, solving real-world problems, and creating something meaningful is what drives me every day.
 
 🎓 Graduated in Technical Informatics from the Federal Institute of Paraná (IFPR) – Londrina
+
 👩‍💻 Full-Stack Web Developer
+
 ✍️ Data Science and Artificial Intelligence student at the State University of Londrina (UEL)
 
 
