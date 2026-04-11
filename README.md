@@ -1,12 +1,12 @@
 ![header](images/top.png)
 ### About me 
 
-💡 I love programming, but what truly motivates me is the impact that code can have.  
+💡I love programming, but what truly motivates me is the impact that code can have.
 Turning ideas into solutions, solving real-world problems, and creating something meaningful is what drives me every day.
 
-* :mortar_board: Graduate of the Federal Institute of Paraná - Londrina (IFPR) in Technical Informatics
-* :woman_technologist: Full-Stack Web Developer
-* :writing_hand: Studied Data Science and Artificial Intelligence at the State University of Londrina
+🎓 Graduated in Technical Informatics from the Federal Institute of Paraná (IFPR) – Londrina
+👩‍💻 Full-Stack Web Developer
+✍️ Data Science and Artificial Intelligence student at the State University of Londrina (UEL)
 
 
 ### Technologies I'm Currently Improving In  
@@ -22,18 +22,10 @@ Turning ideas into solutions, solving real-world problems, and creating somethin
 
 ![rodape](images/final.png)
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 <div align="">
     <h2> ⭐ GitHub Stats ⭐ </h2>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannagarla&layout=compact&theme=transparent" alt="Top Linguagens"></br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=luannagarla&show_icons=true&count_private=true&hide=prs&theme=transparent" alt="GitHub Stats"></br>
-    
+   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=luannagarla&theme=transparent" alt="GitHub Streak">
 </div>
+
+![Metrics](./assets/metrics.svg)
